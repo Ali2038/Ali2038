@@ -19,8 +19,6 @@ Técnico em desenvolvimento de sistemas
 <a href="https://www.linkedin.com/in/Ali2038" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<br>
 
-<div align="center">
-  <img src="gif.gif" alt="Animated GIF" />
-</div>
-
+![Meu GIF](gif.gif)
