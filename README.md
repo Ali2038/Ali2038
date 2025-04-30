@@ -21,6 +21,6 @@ Técnico em desenvolvimento de sistemas
 </a>
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Octocat GIF" />
+  <img src="gif.gif" alt="Animated GIF" />
 </div>
 
