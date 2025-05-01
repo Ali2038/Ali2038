@@ -29,3 +29,6 @@ Técnico em desenvolvimento de sistemas
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<div align="center">
+   <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Octocat GIF" />
+ </div>
