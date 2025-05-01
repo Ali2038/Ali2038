@@ -16,9 +16,9 @@ Técnico em desenvolvimento de sistemas
 </div>
 
 ---
-<div style="display: inline_block"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali2038&layout=compact&theme=radical" width="350" height="200" />  
-<img src="https://github-readme-stats.vercel.app/api?username=Ali2038&show_icons=true&count_private=true&hide=prs&theme=radical" width="400" height="200" />
+<div align="center">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Ali2038&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali2038&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 ---
