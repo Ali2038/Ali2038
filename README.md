@@ -30,5 +30,5 @@ Técnico em desenvolvimento de sistemas
 </a>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F10%2F6b%2F90%2F106b90ebc5b6be36ef45c3b755bf1632.gif&f=1&nofb=1&ipt=4965c5d9561b7337bfa49ca2bc1c6ae6def60de519a881d54a5c46fe62ba2014](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F10%2F6b%2F90%2F106b90ebc5b6be36ef45c3b755bf1632.gif&f=1&nofb=1&ipt=4965c5d9561b7337bfa49ca2bc1c6ae6def60de519a881d54a5c46fe62ba2014) width="500">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F10%2F6b%2F90%2F106b90ebc5b6be36ef45c3b755bf1632.gif&f=1&nofb=1&ipt=4965c5d9561b7337bfa49ca2bc1c6ae6def60de519a881d54a5c46fe62ba2014](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F10%2F6b%2F90%2F106b90ebc5b6be36ef45c3b755bf1632.gif&f=1&nofb=1&ipt=4965c5d9561b7337bfa49ca2bc1c6ae6def60de519a881d54a5c46fe62ba2014) width="500">
 </div>
