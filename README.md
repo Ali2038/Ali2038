@@ -4,7 +4,7 @@
 
 Técnico em desenvolvimento de sistemas
 
-🔹 **Especializações**: Desenvolvimento Web, NodeJs, Suporte, Banco de dados ...
+🔹 **Especializações**: Desenvolvimento Web, NodeJs, Suporte, Banco de dados, POO.
 
 🔹 **Linguagens em constante aprendizagem**: Python, JavaScript e Java.
 <div style="display: inline_block"><br>
